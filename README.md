@@ -1,41 +1,42 @@
-## 📁 Project Files
+# MyAndroidApp — Profile Card Learning App
 
-### Kotlin
-[MainActivity.kt](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/java/com/learn/profilecard/MainActivity.kt)
-
-### XML
-[activity_main.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/res/layout/activity_main.xml)
-
-### Gradle
-[build.gradle.kts](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/build.gradle.kts)
-```
-
-Phir koi bhi AI — ChatGPT, Gemini, Copilot — **sirf README link se pura project samajh lega!**
+## 🚀 Project Info
+- **Language:** Kotlin
+- **UI:** XML + ConstraintLayout
+- **Min SDK:** 24
+- **Target SDK:** 36
+- **Build:** Gradle DSL (Kotlin)
 
 ---
 
-### Tarika 3 — Claude ka Git Integration ✅
-```
-Claude.ai → Settings → Integrations → GitHub Connect
-```
-Ye connect karne ke baad:
-```
-Aap repo select karo
-↓
-Main directly saari files padh sakti hoon
-↓
-Ek ek URL ki zarurat nahi! 🎉
+## 📁 Raw File Links — For AI Reading
+
+### 🔷 Kotlin Files
+- [MainActivity.kt](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/java/com/learn/profilecard/MainActivity.kt)
+
+### 🔷 Layout XML Files
+- [activity_main.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/res/layout/activity_main.xml)
+
+### 🔷 Values
+- [colors.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/res/values/colors.xml)
+- [strings.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/res/values/strings.xml)
+- [themes.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/res/values/themes.xml)
+
+### 🔷 Gradle
+- [app/build.gradle.kts](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/build.gradle.kts)
+- [build.gradle.kts](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/build.gradle.kts)
+- [libs.versions.toml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/gradle/libs.versions.toml)
+
+### 🔷 Manifest
+- [AndroidManifest.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/AndroidManifest.xml)
 ```
 
 ---
 
-## Short Answer
+## Kaise Karna Hai — UI Se
 ```
-Any AI ke liye best solution:
-
-README.md mein
-raw.githubusercontent.com
-wale links daalo
-
-= Koi bhi AI, koi bhi time
-  pura repo padh sakta hai! ✅
+GitHub → MyAndroidApp repo
+→ README.md file click karo
+→ ✏️ Edit (pencil icon) click karo
+→ Pura content replace karo
+→ "Commit changes" click karo ✅
