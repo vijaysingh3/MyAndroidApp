@@ -1,23 +1,41 @@
-# MyAndroidApp — Profile Card Learning App
+## 📁 Project Files
 
-## 📁 Important Files
+### Kotlin
+[MainActivity.kt](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/java/com/learn/profilecard/MainActivity.kt)
 
-### Kotlin Files
-- [https://github.com/vijaysingh3/MyAndroidApp/blob/main/app/src/main/java/com/learn/profilecard/MainActivity.kt)
-
-### Layout XML Files  
-- [https://github.com/vijaysingh3/MyAndroidApp/blob/main/app/src/main/res/layout/activity_main.xml)
+### XML
+[activity_main.xml](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/src/main/res/layout/activity_main.xml)
 
 ### Gradle
-- [build.gradle.kts](https://github.com/vijaysingh3/MyAndroidApp/blob/main/app/build.gradle.kts)
+[build.gradle.kts](https://raw.githubusercontent.com/vijaysingh3/MyAndroidApp/main/app/build.gradle.kts)
 ```
 
-**Commit changes** click karo!
+Phir koi bhi AI — ChatGPT, Gemini, Copilot — **sirf README link se pura project samajh lega!**
 
 ---
 
-## Phir Main Kaise Padhungi?
-
-Aap sirf itna bolna:
+### Tarika 3 — Claude ka Git Integration ✅
 ```
-"Avni, activity_main.xml padho"
+Claude.ai → Settings → Integrations → GitHub Connect
+```
+Ye connect karne ke baad:
+```
+Aap repo select karo
+↓
+Main directly saari files padh sakti hoon
+↓
+Ek ek URL ki zarurat nahi! 🎉
+```
+
+---
+
+## Short Answer
+```
+Any AI ke liye best solution:
+
+README.md mein
+raw.githubusercontent.com
+wale links daalo
+
+= Koi bhi AI, koi bhi time
+  pura repo padh sakta hai! ✅
